@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>No new Parliament: or Some queries or considerations humbly offered to the present Parliament-Members. By a friend to them and their cause.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89702</idno><idno type="EEBO-CITATION">99873354</idno>
+  <idno type="VID">168817</idno>
+  <idno type="EEBO-PROQUEST">2240945137</idno>
+  
+            <idno type="STC">Wing N1183</idno>
+            <idno type="STC">Thomason E1017_8</idno>
+            <idno type="STC">ESTC R8603</idno>
+            <idno type="PROQUEST">99873354</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99873354e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89702)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168817)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>No new Parliament: or Some queries or considerations humbly offered to the present Parliament-Members. By a friend to them and their cause.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 13 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168817:1"/>
+            <p>NO NEW PARLIAMENT: Or some QUERIES OR CONSIDERATIONS Humbly offered to the present PARLAMENT-MEMBERS.</p>
+            <p>
+               <hi>By a Friend to them and their Cause.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168817:2"/>
+            <pb n="83" facs="tcp:168817:2"/>
+            <head>NO NEW PARLIAMENT: Or Some QUERIES Or <hi>Considerations humbly offered to the present</hi> PARLIAMENT-MEMBERS.</head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>WWhether this be not the Parliament, and these the Persons who began the War with the late King? And if so, whether it do not highly and neer<g ref="char:EOLhyphen"/>ly concern them, even for their own sakes, to be the Parliament that shall take up and Close the Quar<g ref="char:EOLhyphen"/>rel, and not leave it to others, especially, if as the general voice goes, the Kings Son must be brought in?</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>Whether this Parliaments first undertaking and prosecuting the War with the late King were Just,
+<pb n="2" facs="tcp:168817:3"/> and upon good and Warrantable Grounds? If it were (as no doubt it was) and God having by his Providence, after a long Interruption of some of them, and a longer Seclusion of the rest, restored them to their Trust, whether they ought not now to stand to their First Good Principles, maintain their First Good Cause, and secure all the good peo<g ref="char:EOLhyphen"/>ple that have been Engaged with them and by them?</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>Whether this be not that Parliament, and these the very persons, who by the good esteem they had among the people of their Integrity, Faithfulness and Constancy; whether, I say, this be not the Parliament who by these and other means engaged the Honest and Well Affected of the Land in the aforesaid War? And if so, whether this Parlia<g ref="char:EOLhyphen"/>ment, having now power in their hands, are not obliged in Duty and good Conscience to secure all the said honest and well-affected people for this their Engaging and Acting under them, and not leave them as a prey to their professed enemies, nor their tearms of Peace to be made by they know not whom? Another Parliament, which there is too great cause to fear, will be too much made up of such as neither have been nor are friends to the Par<g ref="char:EOLhyphen"/>liaments cause, nor to those that engaged in it.</p>
+            </div>
+            <div n="4" type="part">
+               <pb n="2" facs="tcp:168817:3"/>
+               <head>IV.</head>
+               <p>Whether this be not the Parliament who by many Declarations and Remonstrances, by Pro<g ref="char:EOLhyphen"/>testation and Vow, by Solemn League and Cove<g ref="char:EOLhyphen"/>nant have declared and engaged themselves before God, Angels, and Men, and have thereby drawen in and therewith engaged all honest People to assert and defend their just undertaking and one another therein? whether as things now stand, (when this just Cause which through Gods assistance could not be won from us in the field, is in great dan<g ref="char:EOLhyphen"/>ger to be stoln from us by the dark contrivan<g ref="char:EOLhyphen"/>ces of its and our adversaries) if this Parlia<g ref="char:EOLhyphen"/>ment should dissolve at such a time as this, and leave all, both Cause and all engaged by them in it to another Parliament, the greatest part whereof may be no friends but enemies, or at least strangers, or but little concerned in the first undertaking; whe<g ref="char:EOLhyphen"/>ther this would not be exceeding contrary to all those former Declarations, Remonstrances, pro<g ref="char:EOLhyphen"/>testation, Vow and Solemn League and Cove<g ref="char:EOLhyphen"/>nant.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>Whether it be not more then sufficiently ma<g ref="char:EOLhyphen"/>nifest, what will be the carriage of these Enemies to the Parliaments Cause, and its Adherents when
+<pb n="4" facs="tcp:168817:4"/> they get power into their hands, since they are so forward already in their discourses to charge the Par<g ref="char:EOLhyphen"/>liament with Treason and Rebellion in their first un<g ref="char:EOLhyphen"/>dertaking the War, and look on all their Friends as Rebells and Traytors for assisting them in the Pro<g ref="char:EOLhyphen"/>secution of it, and who are now in all places continu<g ref="char:EOLhyphen"/>ing and promoting the electing of such into the New Parliament as are Enemies to the present Parliament, their Friends and Cause, wherein if they prevail (as tis too likely) their work is done? how absolute<g ref="char:EOLhyphen"/>ly necessary is it then for the present Parliament to continue their Session, for prevention of these Mis<g ref="char:EOLhyphen"/>chiefs, which otherwise will ensue.</p>
+               <p>Upon these and many other very weighty Consi<g ref="char:EOLhyphen"/>derations, it can by no means be accounted either honorable, or just, or safe, or prudent for the pre<g ref="char:EOLhyphen"/>sent Parliament to dissolve themselves, till first they have fully asserted and vindicated their own just un<g ref="char:EOLhyphen"/>dertaking, and the faithful adherents to it and them, and not to leave both themselves and their Friends to the Malice and Revenge of a vanquisht Ene<g ref="char:EOLhyphen"/>my.</p>
+               <p>If this should be, we may bid Adieu to the Ho<g ref="char:EOLhyphen"/>nour and Renown of English Parliaments, and to all future hopes of assistance from the People, whatever the necessity may be: And let English men bid fare<g ref="char:EOLhyphen"/>well both to their Civil and Religious Liberties, if after so high a Conflict for them, with the expence
+<pb n="5" facs="tcp:168817:4"/> of so much blood and treasure, and having by Gods blessing subdued their opposers, yet after all to be ex<g ref="char:EOLhyphen"/>posed to a far worse Condition then before, which O God forbid: We hope for better things from our present Parliament: All that we add is only this, If the KING must come, none so fit to bring him as our present Parliament.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>March</hi> 12. 1659.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
